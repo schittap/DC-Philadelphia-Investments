@@ -1,2 +1,2 @@
 # DC-Philadelphia-Investments
-Exploring the impacts of healthcare and public transportation in Philadelphia and Washington, D.C.
+Exploring the impacts of healthcare and public transportation in Washington, D.C. and Philadelphia, Pennsylvania.
